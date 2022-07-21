@@ -1,0 +1,9 @@
+$body-color: red;
+
+body {
+  background-color: $body-color;
+  color:#999;
+  p{
+      background-color: aqua;
+  }
+}
